@@ -1,0 +1,20 @@
+{
+  "name": "gquemener/dispatch-recorded-events-with-symfony-messenger",
+  "description": "s",
+  "type": "project",
+  "require": {
+    "symfony/messenger": "^7.1"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Gildas Quéméner",
+      "email": "gildas.quemener@gmail.com"
+    }
+  ]
+}
